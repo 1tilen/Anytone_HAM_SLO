@@ -1,1 +1,2 @@
-*.csv eol=crlf
+*.csv text eol=crlf
+.gitattributes  export-ignore
