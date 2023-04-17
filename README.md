@@ -13,7 +13,7 @@ Poleg kanalov je znotraj repozitorija tudi datoteka, ki vsebuje vse SLO TGje in 
 
 Razlog za to je GitHub, ki pretvori zaključke vrstic znotraj csv datotek iz CRLF(Windows način) v LF(Unix način). GitHub datotek znotraj zipa ne spremeni. CPS ob branju datotek s tipom zaključkov vrstic LF javi napako.
 
-Če je za vas "codeplug" koristen mi lahko kupite kavo z klikom na: https://www.buymeacoffee.com/s54b
+Če je za vas "codeplug" koristen mi lahko kupite kavo s klikom na: https://www.buymeacoffee.com/s54b
 Hvala!
 
 
