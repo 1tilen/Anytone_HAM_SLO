@@ -13,6 +13,9 @@ Poleg kanalov je znotraj repozitorija tudi datoteka, ki vsebuje vse SLO TGje in 
 
 Razlog za to je GitHub, ki pretvori zaključke vrstic znotraj csv datotek iz CRLF(Windows način) v LF(Unix način). GitHub datotek znotraj zipa ne spremeni. CPS ob branju datotek s tipom zaključkov vrstic LF javi napako.
 
+Če je za vas "codeplug" koristen mi lahko kupite kavo z klikom na: https://www.buymeacoffee.com/s54b
+Hvala!
+
 
 --------------------------------------------------------------------------------------------------
 
@@ -29,3 +32,6 @@ There is also an file with all of Slovenian talk groups and some of the global o
 **When importing into the CPS use the files inside the ZIP: UseThis.zip**
 
 This is because GitHub converts csv files line endings from CRLF(Windows format) to LF(Unix Format). Github does not edit files inside the zip. CPS responds with an error when importing files with LF line endings.
+
+If you find the "codeplug" useful you can buy me a coffee by clicking on: https://www.buymeacoffee.com/s54b
+Thanks!
